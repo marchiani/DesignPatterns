@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{47DB3B0B-4D2A-4A7F-9684-EAC13AD263EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{47DB3B0B-4D2A-4A7F-9684-EAC13AD263EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{8CC81B24-723E-41B3-895B-99DE92EF90A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Flyweight\Flyweight.csproj", "{8CC81B24-723E-41B3-895B-99DE92EF90A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{64267610-D2E1-42A7-9681-E86D2579C371}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8CC81B24-723E-41B3-895B-99DE92EF90A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CC81B24-723E-41B3-895B-99DE92EF90A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CC81B24-723E-41B3-895B-99DE92EF90A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64267610-D2E1-42A7-9681-E86D2579C371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64267610-D2E1-42A7-9681-E86D2579C371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64267610-D2E1-42A7-9681-E86D2579C371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64267610-D2E1-42A7-9681-E86D2579C371}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
