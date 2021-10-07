@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{47DB3B0B-4D2A-4A7F-9684-EAC13AD263EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{8CC81B24-723E-41B3-895B-99DE92EF90A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{47DB3B0B-4D2A-4A7F-9684-EAC13AD263EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47DB3B0B-4D2A-4A7F-9684-EAC13AD263EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47DB3B0B-4D2A-4A7F-9684-EAC13AD263EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC81B24-723E-41B3-895B-99DE92EF90A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC81B24-723E-41B3-895B-99DE92EF90A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC81B24-723E-41B3-895B-99DE92EF90A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC81B24-723E-41B3-895B-99DE92EF90A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
