@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31229.75
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{47DB3B0B-4D2A-4A7F-9684-EAC13AD263EC}"
 EndProject
@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{439507A7-F9F8-4575-86BB-A485663C7634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{002507DE-538B-48F7-A183-95EB5005281A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.csproj", "{002507DE-538B-48F7-A183-95EB5005281A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{FEE77FB0-32B9-47FE-BD2E-C0EBD3544D2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{FEE77FB0-32B9-47FE-BD2E-C0EBD3544D2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{6420835A-ED10-41CE-8E4C-FD38FB7DB17F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{6420835A-ED10-41CE-8E4C-FD38FB7DB17F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{24F5B44E-C124-4EF9-AA84-061A5233F8D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{24F5B44E-C124-4EF9-AA84-061A5233F8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{9BE38F3B-9021-46BC-92D3-FB5D1B702526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{24F5B44E-C124-4EF9-AA84-061A5233F8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F5B44E-C124-4EF9-AA84-061A5233F8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F5B44E-C124-4EF9-AA84-061A5233F8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE38F3B-9021-46BC-92D3-FB5D1B702526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE38F3B-9021-46BC-92D3-FB5D1B702526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE38F3B-9021-46BC-92D3-FB5D1B702526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE38F3B-9021-46BC-92D3-FB5D1B702526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
