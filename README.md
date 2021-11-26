@@ -1,2 +1,3 @@
-# DesignPatterns
-Design patterns written on C#
+## Design patterns written on C#
+##### With Russian comments
+
